@@ -1,0 +1,7 @@
+HTML template short cut -   ! then Enter
+CSS -                        link:css + Tab
+JS -                         script:src + Tab
+button#myButton{Click Me} -  <button id="myButton">Click Me</button>
+button#myButton           -  <button id="myButton"></button>
+p.thisIsClass{hi.........} -  <p class="thisIsClass">hi.........</p>
+
